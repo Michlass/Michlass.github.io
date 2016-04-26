@@ -1,1 +1,7 @@
-{"name":"Michlass.github.io","tagline":"De website van, en over, Michiel Lassche","body":"###Deze pagina is nog in onderhoud\r\n\r\nDe body van deze tekst is opgemaakt met markdown. *test* **test** _test_ `test`","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Michiel Lassche",
+  "tagline": "De website van, en over, Michiel Lassche",
+  "body": "###Deze pagina is nog in onderhoud\r\n\r\nDe body van deze tekst is opgemaakt met markdown. *test* **test** _test_ `test`",
+  "google": "UA-50715769-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
