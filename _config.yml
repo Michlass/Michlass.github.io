@@ -1,0 +1,8 @@
+title: Michiel Lassche
+description: De website van, en over, Michiel Lassche
+google_analytics: UA-50715769-1
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
